@@ -38,7 +38,7 @@ The dataset used in this project is from Kaggle: [Sephora Products and Skincare 
 4.  Download the Sephora dataset:
 
     * Make sure you have the Kaggle CLI installed and configured. If not, follow the instructions on the [Kaggle CLI GitHub page](https://github.com/Kaggle/kaggle-api).
-    * Make sure you have the `unzip` command installed on your system.
+    * IMPORTANT: You need to have the kaggle.json file in the `~/.kaggle` directory.
     * Run the download script:
 
         ```bash
