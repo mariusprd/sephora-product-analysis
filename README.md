@@ -14,7 +14,7 @@ The dataset used in this project is from Kaggle: [Sephora Products and Skincare 
 
 ## Data analysis
 
-To view the data analysis part, open the notebook `notebooks/eda_notebook.ipynb` in Google Colab. To run it locally it takes > 3min.
+To view the data analysis part, you need to run the notebook locally because the plotly graphs are not supported in GitHub / Google Colab, so they dont load properly.
 
 ## Setup
 
