@@ -12,6 +12,10 @@ Sephora products analysis using descriptions and reviews. With this the project 
 
 The dataset used in this project is from Kaggle: [Sephora Products and Skincare Reviews](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews).
 
+## Data analysis
+
+To view the data analysis part, open the notebook `notebooks/eda_notebook.ipynb` in Google Colab. To run it locally it takes > 3min.
+
 ## Setup
 
 1.  Clone the repository:
