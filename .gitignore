@@ -172,7 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-data/raw/
-data/processed/
+data/
 venv/
