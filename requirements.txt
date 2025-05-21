@@ -7,3 +7,5 @@ scipy
 matplotlib
 wordcloud
 nltk
+scikit-learn
+seaborn
